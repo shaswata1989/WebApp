@@ -19,6 +19,7 @@ body {
     text-align:center;
     padding:32px;
 }
+	
 #headerone {
     style:color:black;
     text-align:center;
